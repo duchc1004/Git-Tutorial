@@ -37,3 +37,7 @@
       + git clone url
     2. Pull
       + git pull
+    3. Conflict
+      + git pull
+      + open file conflict: head ... , and modify
+      + add commit push
